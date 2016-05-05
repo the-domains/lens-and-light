@@ -1,0 +1,28 @@
+name: Lens-and-Light
+favicon: null
+layout_spectrum: 0.17923801229335368
+typography_spectrum: 0.6081891839858145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6215181187726557
+  lightness: 0.9157712841406465
+  saturation: 0.25572707899846137
+  rhythmicContrast: 0.9204369105864316
+purpose: []

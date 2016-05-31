@@ -4,8 +4,15 @@
         <description><![CDATA[Photography and Art]]></description>
         <link>https://thegrid.ai/lens-and-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 19:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 13:37:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lens-and-light/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Eye]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/932b594f-f3ac-4de2-9544-4adc72055ca1.jpg">]]></description>
+            <link>https://thegrid.ai/lens-and-light/the-eye/index.html</link>
+            <guid isPermaLink="false">c7794e5f-e6e8-41ab-89ab-74c9bac7357b</guid>
+            <pubDate>Tue, 31 May 2016 13:37:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3187415-d196-4d7b-b6d3-c9908aa45b3a.jpg">]]></description>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/lens-and-light/hendrix-james/index.html</link>
             <guid isPermaLink="false">a7430ef4-8592-451a-87fa-d6755a4c43e3</guid>
             <pubDate>Thu, 05 May 2016 19:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/932b594f-f3ac-4de2-9544-4adc72055ca1.jpg">]]></description>
-            <link>https://thegrid.ai/lens-and-light/the-eye/index.html</link>
-            <guid isPermaLink="false">c7794e5f-e6e8-41ab-89ab-74c9bac7357b</guid>
-            <pubDate>Thu, 05 May 2016 18:58:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

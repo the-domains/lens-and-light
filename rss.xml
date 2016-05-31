@@ -4,7 +4,7 @@
         <description><![CDATA[Photography and Art]]></description>
         <link>https://thegrid.ai/lens-and-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 13:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 13:43:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lens-and-light/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Eye]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lens-and-light/the-eye/index.html</link>
             <guid isPermaLink="false">c7794e5f-e6e8-41ab-89ab-74c9bac7357b</guid>
             <pubDate>Tue, 31 May 2016 13:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b41367b-f417-4ab0-b0c2-5ec2d130c074.jpg">]]></description>
+            <link>https://thegrid.ai/lens-and-light/delicate/index.html</link>
+            <guid isPermaLink="false">e82feaa4-2837-4728-9468-019819e77ee8</guid>
+            <pubDate>Tue, 31 May 2016 13:42:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lens-and-light/dont-open-that/index.html</link>
             <guid isPermaLink="false">c0e73787-8951-4c38-91cd-cb62afe60a02</guid>
             <pubDate>Thu, 05 May 2016 19:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3861e50-585b-4872-9122-756f33e08d5f.jpg">]]></description>
-            <link>https://thegrid.ai/lens-and-light/hendrix-james/index.html</link>
-            <guid isPermaLink="false">a7430ef4-8592-451a-87fa-d6755a4c43e3</guid>
-            <pubDate>Thu, 05 May 2016 19:08:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

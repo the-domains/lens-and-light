@@ -4,15 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Hendrix, James #2 '
-datePublished: '2016-05-31T13:48:47.374Z'
-dateModified: '2016-05-31T13:48:41.914Z'
+description: 'Hendrix, James #2'
+datePublished: '2016-07-18T14:14:21.819Z'
+dateModified: '2016-07-18T14:14:12.580Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-31-hendrix-james-2.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-31-hendrix-james-2.md
 url: hendrix-james-2/index.html
 _type: Article
 

@@ -4,22 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Hendrix, James '
-datePublished: '2016-05-05T19:08:37.169Z'
-dateModified: '2016-05-05T19:07:43.480Z'
+description: 'Hendrix, James'
+datePublished: '2016-07-18T14:35:31.764Z'
+dateModified: '2016-07-18T14:33:26.984Z'
 title: ''
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-05-hendrix-james.md
+authors: []
+publisher: null
+starred: false
 url: hendrix-james/index.html
 _type: Article
 
 ---
 Hendrix, James
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3861e50-585b-4872-9122-756f33e08d5f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef77cf616647aebbf40afd8dd64447ae7d2179a4.jpg)
